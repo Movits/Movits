@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Movits/Movits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UADE in Buenos Aires, Argentina, also pursuing a full-stack development course at the city's renowned professional training center.
 
-Here are some ideas to get you started:
+As a Brazilian living in Argentina, I've become a multicultural individual fluent in Spanish, English, and Portuguese. Teaching English is another passion of mine, allowing me to bridge language gaps and fostering essential skills such as patience and the ability to simplify complex concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About My Work 🚀
+
+I love diving into independent coding projects that spark my passion. One such venture led me to create several Discord bots, with DigitsBot being my most significant accomplishment. This bot plays music from YouTube in Discord channels, a solution I developed when my friends couldn't find a bot that catered to their specific needs.
+
+## Currently 🔎
+
+I'm still on my learning journey and thrilled with my progress thus far. I'm eager to dive deeper into the world of programming and believe in continuous learning. I strive to enhance my skills to create effective, efficient, and user-friendly solutions.
+
+## Explore My Projects 🗺️
+
+Feel free to explore my GitHub repository, and please don't hesitate to provide feedback or reach out for collaboration on exciting new projects.
