@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Computer Science student at UADE in Buenos Aires, Argentina, also pursuing a full-stack development course at the city's renowned professional training center.
+I'm a Information Technology Management student at UADE in Buenos Aires, Argentina, also pursuing a full-stack development course at the city's renowned professional training center.
 
 As a Brazilian living in Argentina, I've become a multicultural individual fluent in Spanish, English, and Portuguese. Teaching English is another passion of mine, allowing me to bridge language gaps and fostering essential skills such as patience and the ability to simplify complex concepts.
 
